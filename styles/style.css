@@ -1,6 +1,9 @@
 /* ==================================================
                  modify bootstrap styles 
 ========================================================= */
-.bg-info {
+.panda-bg-info {
   background-color: #feeae9 !important;
+}
+.categories img {
+  width: 100px;
 }
